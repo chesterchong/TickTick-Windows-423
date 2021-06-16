@@ -18,5 +18,6 @@ Disclaimer
 - The materials shall not be used for any commercial purposes or illegal activities.
 - You will be held solely responsible for any damage/loss/consequences for your action.
 
-Modified with dnSpy
+Credit
 -------------
+- Modified with dnSpy

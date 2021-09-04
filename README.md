@@ -20,4 +20,4 @@ Disclaimer
 
 Cracked Android APK
 -------------
-- __If you need Android APK, click [HERE](https://drive.google.com/file/d/14d0RFf6S8Spxj4rxAtz3O4vlgAm3bD0d/view?usp=sharing).__
+- __If you need Android APK, click [HERE](https://bit.ly/ticktickapk).__

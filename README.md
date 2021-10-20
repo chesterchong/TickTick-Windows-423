@@ -1,4 +1,4 @@
-# TickTick-Windows-4.0.3-Crack (UPDATED)
+# TickTick-Windows-4.0.4-Crack (UPDATED)
 Features
 ----------
 - Unlock calendar view
@@ -8,7 +8,7 @@ Features
 
 Installation
 ------------
-1. Install TickTick v4.03
+1. Install TickTick
 2. Copy paste the TickTick.exe into install directory
 3. Voila !
 

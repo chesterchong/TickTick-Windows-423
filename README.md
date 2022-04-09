@@ -21,3 +21,8 @@ Disclaimer
 Cracked Android APK
 -------------
 - __If you need Android APK, click [HERE](https://bit.ly/ticktickapk).__ 
+
+
+P.S.
+-------------
+- I am so hectic these days, I will not be able to reply to you.

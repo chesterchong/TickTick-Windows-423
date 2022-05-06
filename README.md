@@ -25,4 +25,4 @@ Cracked Android APK
 
 P.S.
 -------------
-- I am quite hectic these days, so I will not be able to reply to you.
+- I am quite hectic these days, so please leave me alone, thank you.

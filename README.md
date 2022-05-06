@@ -1,4 +1,3 @@
-# TickTick-Windows-4.0.7.2 (UPDATED)
 Features
 ----------
 - Unlock calendar view

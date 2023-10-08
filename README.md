@@ -1,5 +1,5 @@
-### TickTick is a powerful to-do & task management app with cloud synchronization across 10+ platforms.
-
+### Description
+- TickTick is a powerful to-do & task management app with cloud synchronization across 10+ platforms.
 Features
 ----------
 - Unlock calendar view

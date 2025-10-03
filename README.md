@@ -14,5 +14,3 @@
 
 #### Disclaimer
 - These materials are for educational and research purposes only.
-- The materials shall not be used for any commercial purposes or illegal activities.
-- You will be held solely responsible for any damage/loss/consequences for your action.
